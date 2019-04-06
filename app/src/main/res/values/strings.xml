@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab-3</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="guate1">Xela</string>
+    <string name="guate2">Peten</string>
+    <string name="guate3">Zacapa</string>
+    <string name="escriba">escriba</string>
+</resources>
